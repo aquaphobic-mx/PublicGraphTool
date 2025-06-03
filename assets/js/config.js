@@ -284,18 +284,13 @@ setupGraphAnalytics();
 
 
 // If alt_header is enabled, these are the items added to the header
-let headerLogoText = "HarutoHiroki",
-    headerLogoImgUrl = "assets/images/haruto.svg",
+let headerLogoText = null,
+    headerLogoImgUrl = "https://squig.link/squiglink-logo-w.png",
     headerLinks = [
-    {
-        name: "Sample",
-        url: "https://sample.com"
-    },
-    {
-        name: "Sample External",
-        url: "https://sample.com",
-        external: true
-    }
+    // {
+    //     name: "Sample",
+    //     url: "https://squig.link/"
+    // }
 ];
 
 // Source: https://www.teachmeaudio.com/mixing/techniques/audio-spectrum
