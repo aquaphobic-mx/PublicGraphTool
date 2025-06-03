@@ -1,115 +1,398 @@
 [
-  {
-    "name": "AudioSense",
-    "phones": [
-      {
-        "name": "DT200",
-        "file": "AudioSense DT200"
-      }
-    ]
-  },
-  {
-    "name": "Demo",
-    "phones": [
-        {"name":["Variations"],
-         "file":["Combo Variant 1",
-                 "Combo Variant 2",
-                 "Combo Variant 3",
-                 "Combo Variant 4"],
-         "suffix":["var1",
-                   "var2",
-                   "var3",
-                   "var4"],
-         "reviewScore":"4",
-         "reviewLink":"https://www.youtube.com/",
-         "shopLink":"https://www.amazon.com/",
-         "price":"¥100"
-        },
-        {"name":["Variations 2"],
-         "file":["Combo Variant 1",
-                 "Combo Variant 2",
-                 "Combo Variant 3",
-                 "Combo Variant 4"],
-         "suffix":["var1",
-                   "var2",
-                   "var3",
-                   "var4"],
-         "reviewScore":"A+",
-         "reviewLink":"https://www.head-fi.org/forums/",
-         "shopLink":"https://www.aliexpress.com/",
-         "price":"$100"
-        }
-    ]
-  },
-  {
-    "name":   "QBK",
-    "phones": [ "FQQ"
-              , "Q53"
-              , "KT"
-              , "B27"
-              , "BKF"
-              , "H2"
-              , "HH"
-              , "E05"
-              , "QK9" ]
-  }, {
-    "name":   "ZKZ",
-    "suffix": "Sound",
-    "phones": [ "H4"
-              , "HHH"
-              , "KTK"
-              , {"name":"E10 Universal","file":"E10"}
-              , "EFZ9"
-              , {"name":"THT02 Extreme","file":"THT02"}
-              , "ZK"
-              , "E40" ]
-  }, {
-    "name":   "RBG",
-    "suffix": "(Not an acronym)",
-    "phones": [ "B9"
-              , "BE0" ]
-  }, {
-    "name":   "KQQ",
-    "phones": [ "QE"
-              , "K"
-              , "H"
-              , "QH19"
-              , {"name":"T4 Reference","file":"T4"} ]
-  }, {
-    "name":   "KRKG",
-    "suffix": "Ears",
-    "phones": [ "E5"
-              , "KK16"
-              , {"name":"RG Pro Edition","file":"RG"}
-              , "T0"
-              , "KH"
-              , "K5" ]
-  }, {
-    "name":   "CQ",
-    "phones": [ "TC4"
-              , "Q2"
-              , {"name":"CE Reference","file":"CE"}
-              , {"name":"E04 Enhanced Bass","file":"E04"}
-              , "T"
-              , {"name":"TE66 Deluxe","file":"TE66"}
-              , "QHC" ]
-  }, {
-    "name":   "GG",
-    "suffix": "Hi-fi",
-    "phones": [ "T92"
-              , {"name":"H0 Pro","file":"H0"}
-              , "TG"
-              , "GGE"
-              , "HG7" ]
-  }, {
-    "name":   "GZR",
-    "phones": [ {"name":"GRR Light","file":"GRR"}
-              , "F0"
-              , "HR"
-              , "HRH"
-              , {"name":"HTH Performance","file":"HTH"}
-              , "Z"
-              , "HTH67"
-              , "HT5" ]
-  }
+	{
+        "name":   "CVJ",
+        "phones": [
+            {
+                "name": "Konoka",
+                "file": [
+                    "CVJ Konoka (00, T300B)",
+					"CVJ Konoka (10, T300B)",
+					"CVJ Konoka (01, T300B)",
+					"CVJ Konoka (11, T300B)",
+					"CVJ Konoka (11, T300B, 500 filter)",
+					"CVJ Konoka (11, T300B, 500 filter, 25Ω)",
+					"CVJ Konoka (11, T300B, Tanchjim filter)",
+					"CVJ Konoka (11, T300B, Tanchjim filter, BF-1923)",
+					"CVJ Konoka (11, T300B, Tanchjim filter, BF-1861)"
+                ],
+				"suffix": [
+                    "(00, T300B)",
+					"(10, T300B)",
+					"(01, T300B)",
+					"(11, T300B)",
+					"(11, T300B, 500 filter)",
+					"(11, T300B, 500 filter, 25Ω)",
+					"(11, T300B, Tanchjim filter)",
+					"(11, T300B, Tanchjim filter, BF-1923)",
+					"(11, T300B, Tanchjim filter, BF-1861)"
+                ],
+                "reviewScore": "★★☆☆☆",
+                "reviewLink": "",
+                "price": "$13",
+                "shopLink": "https://shopee.ph/CVJ-Konoka-In-Ear-Earphone-With-3D-Hifi-Triple-Hybrid-(1DD-1BA-1Vibration-Driver)-Wired-DJ-Monitors-Tuning-Switch-Headset-i.59464278.20591668562"
+            }
+        ]
+    },
+	{
+        "name":   "Kiwi Ears",
+        "phones": [
+            {
+                "name": "Quintet",
+                "file": [
+                    "Kiwi Ears Quintet (S&S)",
+					"Kiwi Ears Quintet (T300B)"
+                ],
+				"suffix": [
+                    "(S&S)",
+					"(T300B)"
+                ],
+                "reviewScore": "★★★★☆",
+                "reviewLink": "",
+                "price": "$200",
+                "shopLink": "https://www.lazada.com.ph/products/pdp-i3929138769-s21065444191.html"
+            }
+        ]
+    },
+    {
+        "name":   "Moondrop",
+        "phones": [
+			{
+                "name": "Aria",
+                "file": [
+                    "Moondrop Aria (Velvet)",
+					"Moondrop Aria (Vent filter, Velvet)",
+					"Moondrop Aria (Vent blocked, Velvet)"
+                ],
+				"suffix": [
+					"(Velvet)",
+					"(Vent filter, Velvet)",
+					"(Vent blocked, Velvet)"
+                ],
+                "reviewScore": "★★★★☆",
+                "reviewLink": "",
+                "price": "$65",
+                "shopLink": "Discontinued"
+            },
+            {
+                "name": "Moca",
+                "file": [
+                    "Moondrop Moca (Standard, Block Ear+7)",
+					"Moondrop Moca (Ultra Bass, Block Ear+7)",
+					"Moondrop Moca (POP Style, Block Ear+7)",
+					"Moondrop Moca (POP Style, ASMR)",
+					"Moondrop Moca (Monitor, Block Ear+7)",
+					"Moondrop Moca (Classic, Block Ear+7)",
+					"Moondrop Moca (Transparent, Standard, Block Ear+7)",
+					"Moondrop Moca (ANC, Standard, Block Ear+7)"
+                ],
+				"suffix": [
+                    "(Standard, Block Ear+7)",
+					"(Ultra Bass, Block Ear+7)",
+					"(POP Style, Block Ear+7)",
+					"(POP Style, ASMR)",
+					"(Monitor, Block Ear+7)",
+					"(Classic, Block Ear+7)",
+					"(Transparent, Standard, Block Ear+7)",
+					"(ANC, Standard, Block Ear+7)"
+                ],
+                "reviewScore": "★★★★★",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://shopee.ph/Moondrop-MOCA-True-Wireless-Earbuds-HiFi-Sound-Quality-ANC-TWS-IMEs-Bass-LE-Audio-Support-APP-i.174314413.27362637084"
+            }
+        ]
+    },
+	{
+        "name":   "Realme",
+        "phones": [
+            {
+                "name": "Buds Air 6 Pro",
+                "file": [
+                    "Realme Buds Air 6 Pro",
+					"Realme Buds Air 6 Pro (ANC)"
+                ],
+				"suffix": [
+                    "",
+					"(ANC)"
+                ],
+                "reviewScore": "★★★★☆",
+                "reviewLink": "",
+                "price": "$60",
+                "shopLink": "https://shopee.ph/Realme-Buds-Air-6-Pro-True-Wireless-Earphone-50dB-Active-Noise-Cancelling-Bluetooth-5.3-TWS-Earphone-LDAC-IP55-Headphone-i.88405694.25680335234"
+            }
+        ]
+    },
+    {
+        "name":   "Simgot",
+        "phones": [
+            {
+                "name": "EW300",
+                "file": [
+				    "Simgot EW300 3.5mm (Steel nozzle, Velvet)",
+					"Simgot EW300 3.5mm (Copper nozzle, Velvet)",
+                    "Simgot EW300 3.5mm (Kato steel nozzle, Velvet)",
+					"Simgot EW300 3.5mm (Kato steel nozzle, Spring)"
+                ],
+                "suffix": [
+					"3.5mm (Steel nozzle, Velvet)",
+					"3.5mm (Copper nozzle, Velvet)",
+                    "3.5mm (Kato steel nozzle, Velvet)",
+					"3.5mm (Kato steel nozzle, Spring)"
+
+                ],
+                "reviewScore": "★★★★★",
+                "reviewLink": "https://discord.com/channels/535786870521593887/1324708928940019793",
+                "price": "$70",
+                "shopLink": "https://shopee.ph/SIMGOT-EW300-DSP-1DD-1Planar-1PZT-Hybrid-Driver-In-Ear-Monitor-Wired-Earbuds-IEM-with-Built-in-DAC-IEM-Cable-i.174314413.26966249491"
+            },
+			{
+                "name": "EW100P",
+                "file": [
+                    "Simgot EW100P BT20XS (SBC, Velvet)",
+					"Simgot EW100P BT20XS (SBC, Origin)",
+					"Simgot EW100P BT20XS (SBC, Final E)",
+					"Simgot EW100P BT20XS (SBC, ET4)",
+					"Simgot EW100P BT20XS (SBC, Pro01)"
+                ],
+                "suffix": [
+                    "BT20XS (SBC, Velvet)",					
+					"BT20XS (SBC, Origin)",
+					"BT20XS (SBC, Final E)",
+					"BT20XS (SBC, ET4)",
+					"BT20XS (SBC, Pro01)"
+                ],
+                "reviewScore": "★★★☆☆",
+                "reviewLink": "",
+                "price": "$16",
+                "shopLink": "https://shopee.ph/Simgot-EW100P-10MM-Dual-Cavity-Dynamic-Driver-amp-LCP-Diaphragm-Earphone-Crystal-Fidelity-Sound-Earphone-for-Audiophile-Musician-i.174314413.18788599636"
+            }
+        ]
+    },
+	{
+        "name":   "Sonic Memory",
+        "phones": [
+            {
+                "name": "SM1",
+                "file": [
+                    "Sonic Memory SM1 (Silver, EX11)"
+                ],
+				"suffix": [
+                    "(Silver, EX11)"
+                ],
+                "reviewScore": "★★★★★",
+                "reviewLink": "",
+                "price": "$35",
+                "shopLink": ""
+            }
+        ]
+    },
+	{
+        "name":   "Sony",
+        "phones": [
+            {
+                "name": "MDR-XB55AP",
+                "file": [
+                    "Sony MDR-XB55AP"
+                ],
+				"suffix": [
+                    ""
+                ],
+                "reviewScore": "★★☆☆☆",
+                "reviewLink": "",
+                "price": "$26",
+                "shopLink": "https://shopee.ph/SONY-MDR-XB55AP-Premium-In-Ear-Extra-Bass-Headphones-Stereo-Earphones-3.5mm-Wired-Earbuds-Sport-Handsfree-Mic-Headset-i.517100226.19059808117"
+            },
+			{
+                "name": "WI-C100",
+                "file": [
+                    "Sony WI-C100"
+                ],
+				"suffix": [
+                    ""
+                ],
+                "reviewScore": "★★☆☆☆",
+                "reviewLink": "",
+                "price": "$23",
+                "shopLink": "https://shopee.ph/Sony-WI-C100-WI-C100-Wireless-In-Ear-Bluetooth-Earphones-i.325307811.21626001189"
+            }
+        ]
+    },
+	{
+        "name":   "Tanchjim",
+        "phones": [
+            {
+                "name": "Mino",
+                "file": [
+                    "Tanchjim Mino (SBC, Nuarl 7)"
+                ],
+                "suffix": [
+                    "(SBC, Nuarl 7)"
+                ],
+                "reviewScore": "★★★★★",
+                "reviewLink": "",
+                "price": "$42",
+                "shopLink": "https://shopee.ph/Tanchjim-Mino-ANC-Bluetooth-5.3-IPX4-Waterproof-Touch-Control-Wear-Detection-True-Wireless-Earphones-i.182669784.23587609556"
+            },
+			{
+                "name": "One",
+                "file": [
+                    "Tanchjim One (3.5mm, Narrow)",
+					"Tanchjim One (DSP, Narrow)"
+                ],
+                "suffix": [
+                    "(3.5mm, Narrow)",
+					"(DSP, Narrow)"
+                ],
+                "reviewScore": "★★★★★",
+                "reviewLink": "",
+                "price": "$25",
+                "shopLink": "https://shenzhenaudio.com/products/tanchjim-one-in-ear-headphone?variant=43853042516211"
+            }
+        ]
+    },
+	{
+        "name":   "Tangzu",
+        "phones": [
+            {
+                "name": "Wan'er SE",
+                "file": [
+                    "Tangzu Wan'er SE (Sancai)"
+                ],
+                "suffix": [
+                    "(Sancai)"
+                ],
+                "reviewScore": "★★★☆☆",
+                "reviewLink": "",
+                "price": "$20",
+                "shopLink": "https://shopee.ph/Tangzu-Wan'er-Studio-Edtion-SE-SG-Dynamic-Driver-HiFi-Detachable-Cable-Waner-IEM-In-Ear-Earphones-i.182669784.28056646868"
+            },
+			{
+                "name": "Wan'er S.G 2",
+                "file": [
+                    "Tangzu Wan'er S.G 2 (3.5mm, Sancai)",
+					"Tangzu Wan'er S.G 2 (3.5mm, Standard)",
+					"Tangzu Wan'er S.G 2 (3.5mm, Velvet)",
+					"Tangzu Wan'er S.G 2 (3.5mm, ASMR)",
+					"Tangzu Wan'er S.G 2 (SBC, Velvet)",
+					"Tangzu Wan'er S.G 2 (SBC, Pro01)"
+                ],
+                "suffix": [
+                    "(3.5mm, Sancai)",
+					"(3.5mm, Standard)",
+					"(3.5mm, Velvet)",
+					"(3.5mm, ASMR)",
+					"(SBC, Velvet)",
+					"(SBC, Pro01)"
+                ],
+                "reviewScore": "★★★★★",
+                "reviewLink": "",
+                "price": "$20",
+                "shopLink": "https://shopee.ph/New-Tangzu-Waner-2-10mm-Dynamic-Driver-In-ear-Earphone-IEM-MIC-Metal-Composite-Diaphragm-0.78mm-2Pin-IEMs-Wan-er-S.G-II-i.174314413.28979011277"
+            }
+        ]
+    },
+	{
+        "name":   "Truthear",
+        "phones": [
+            {
+                "name": "Gate",
+                "file": [
+                    "Truthear Gate (Wide)",
+					"Truthear Gate (Narrow)"
+                ],
+                "suffix": [
+                    "(Wide)",
+					"(Narrow)"
+                ],
+                "reviewScore": "★★★★☆",
+                "reviewLink": "",
+                "price": "$20",
+                "shopLink": "https://shopee.ph/Truthear-Gate-10mm-Dynamic-Driver-Lightweight-IEM-Detachable-Cable-Wired-Earphones-In-Ear-Monitors-i.182669784.24182346097"
+            },
+			{
+                "name": "Hexa",
+                "file": [
+                    "Truthear Hexa (T300B)",
+					"Truthear Hexa (-DDfilt, Pro01 [Treble exit obstruction])",
+					"Truthear Hexa (-DDfilt, Pro01 [Mids exit obstruction])",
+					"Truthear Hexa (-DDfilt, AEX07)",
+					"Truthear Hexa (-DDfilt, Velvet)",
+					"Truthear Hexa (-DDfilt, +Vfilt, Velvet)"
+                ],
+                "suffix": [
+					"(T300B)",
+					"(-DDfilt, Pro01 [Treble exit obstruction])",
+					"(-DDfilt, Pro01 [Mids exit obstruction])",
+					"(-DDfilt, AEX07)",
+					"(-DDfilt, Velvet)",
+					"(-DDfilt, +Vfilt, Velvet)"
+                ],
+                "reviewScore": "★★★★★",
+                "reviewLink": "",
+                "price": "$85",
+                "shopLink": "https://shopee.ph/Truthear-Hexa-1DD-3BA-Hybrid-Dynamic-Balanced-Armature-Driver-IEM-Earphones-i.182669784.20788774139"
+            },
+			{
+                "name": "Zero Blue 2",
+                "file": [
+                    "Truthear Zero Blue 2",
+					"Truthear Zero Blue 2 (Foam tip)",
+					"Truthear Zero Blue 2 (5Ω)",
+					"Truthear Zero Blue 2 (5Ω, Foam tip)",
+					"Truthear Zero Blue 2 (5Ω, ET4)",
+					"Truthear Zero Blue 2 (5Ω, Final E)",
+					"Truthear Zero Blue 2 (5Ω, Final E C)",
+					"Truthear Zero Blue 2 (5Ω, 9k, Final E)",
+					"Truthear Zero Blue 2 (5Ω, EP-EX11)",
+					"Truthear Zero Blue 2 (5Ω, ST35)",
+					"Truthear Zero Blue 2 (5Ω, T300B)",
+					"Truthear Zero Blue 2 (5Ω, ASMR)",
+					"Truthear Zero Blue 2 (5Ω, Leteciel Clear)",
+					"Truthear Zero Blue 2 (5Ω, Leteciel Black)",
+					"Truthear Zero Blue 2 (5Ω, Spring)",
+					"Truthear Zero Blue 2 (5Ω, Spring F)",
+					"Truthear Zero Blue 2 (5Ω, Gate Narrow)",
+					"Truthear Zero Blue 2 (5Ω, Gate Wide)",
+					"Truthear Zero Blue 2 (5Ω, 9k, Gate Wide)",
+					"Truthear Zero Blue 2 (5Ω, OS300)",
+					"Truthear Zero Blue 2 (5Ω, stk300)",
+					"Truthear Zero Blue 2 (25Ω)",
+					"Truthear Zero Blue 2 (MAG B550 Tomahawk Max)",
+					"Truthear Zero Blue 2 S2",
+					"Truthear Zero Blue 2 (5Ω) S2"
+                ],
+                "suffix": [
+					"",
+					"(Foam tip)",
+                    "(5Ω)",
+					"(5Ω, Foam tip)",
+					"(5Ω, ET4)",
+					"(5Ω, Final E)",
+					"(5Ω, Final E C)",
+					"(5Ω, 9k, Final E)",
+					"(5Ω, EP-EX11)",
+					"(5Ω, ST35)",
+					"(5Ω, T300B)",
+					"(5Ω, ASMR)",
+					"(5Ω, Leteciel Clear)",
+					"(5Ω, Leteciel Black)",
+					"(5Ω, Spring)",
+					"(5Ω, Spring F)",
+					"(5Ω, Gate Narrow)",
+					"(5Ω, Gate Wide)",
+					"(5Ω, 9k, Gate Wide)",
+					"(5Ω, OS300)",
+					"(5Ω, stk300)",
+					"(25Ω)",
+					"(MAG B550 Tomahawk Max)",
+					"S2",
+					"(5Ω) S2"
+                ],
+                "reviewScore": "★★★★★",
+                "reviewLink": "",
+                "price": "$65",
+                "shopLink": "https://shenzhenaudio.com/products/truthear-x-crinacle-zeroblue2-dual-dynamic-drivers-in-ear-headphone"
+            }
+        ]
+    }
 ]

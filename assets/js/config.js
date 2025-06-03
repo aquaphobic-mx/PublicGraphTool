@@ -1,24 +1,28 @@
 // Configuration options
-const init_phones = ["Haruto 2024 Target", "AudioSense DT200"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = [
+	    "Δ Aquaphobic Target",
+        "IEF Comp Target",
+        "Simgot EW300 3.5mm (Kato steel nozzle, Velvet)"
+      ],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
-      default_normalization = "dB",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
+      default_normalization = "Hz",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
       default_norm_db = 60,                         // Sets default dB normalization point
       default_norm_hz = 630,                        // Sets default Hz normalization point (500Hz is recommended by IEC)
-      max_channel_imbalance = 5,                    // Channel imbalance threshold to show ! in the channel selector
+      max_channel_imbalance = 10,                    // Channel imbalance threshold to show ! in the channel selector
       alt_layout = true,                            // Toggle between classic and alt layouts
       alt_sticky_graph = true,                      // If active graphs overflows the viewport, does the graph scroll with the page or stick to the viewport?
-      alt_animated = false,                         // Determines if new graphs are drawn with a 1-second animation, or appear instantly
+      alt_animated = true,                         // Determines if new graphs are drawn with a 1-second animation, or appear instantly
       alt_header = true,                            // Display a configurable header at the top of the alt layout
       alt_header_new_tab = false,                   // Clicking alt_header links opens in new tab
       alt_tutorial = true,                          // Display a configurable frequency response guide below the graph
       alt_augment = true,                           // Display augment card in phone list, e.g. review sore, shop link
       site_url = '/',                               // URL of your graph "homepage"
       share_url = true,                             // If true, enables shareable URLs
-      watermark_text = "CrinGraph",                 // Optional. Watermark appears behind graphs
-      watermark_image_url = "assets/images/haruto.svg", // Optional. If image file is in same directory as config, can be just the filename
-      rig_description = "clone IEC 711",            // Optional. Labels the graph with a description of the rig used to make the measurement, e.g. "clone IEC 711"
-      page_title = "CrinGraph",                     // Optional. Appended to the page title if share URLs are enabled
+      watermark_text = "",                          // Optional. Watermark appears behind graphs
+      watermark_image_url = "koishi_icon2b_i.png",                     // Optional. If image file is in same directory as config, can be just the filename
+      rig_description = "IEC 60318-4 Coupler (711)", // Optional. Labels the graph with a description of the rig used to make the measurement, e.g. "clone IEC 711"
+      page_title = "Aquaphobic",                     // Optional. Appended to the page title if share URLs are enabled
       page_description = "View and compare frequency response graphs for earphones",
       accessories = true,                           // If true, displays specified HTML at the bottom of the page. Configure further below
       externalLinksBar = true,                      // If true, displays row of pill-shaped links at the bottom of the page. Configure further below
@@ -35,15 +39,47 @@ const init_phones = ["Haruto 2024 Target", "AudioSense DT200"],// Optional. Whic
       extraEnabled = true,                          // Enable extra features
       extraUploadEnabled = true,                    // Enable upload function
       extraEQEnabled = true,                        // Enable parametic eq function
-      extraEQBands = 10,                            // Default EQ bands available
+      extraEQBands = 5,                            // Default EQ bands available
       extraEQBandsMax = 20;                         // Max EQ bands available
 
 // Specify which targets to display
 const targets = [
-    { type:"Reference",  files:["Haruto 2024","Haruto 2021"] },
-    { type:"Neutral",    files:["KEMAR DF","IEF Neutral 2023","Etymotic"] },
-    { type:"Reviewer",   files:["Antdroid","Banbeucmas","HBB","Precogvision","Super Review 22","Timmy","VSG"] },
-    { type:"Preference", files:["Harman IE 2019v2","Harman IE 2017v2","AutoEQ","Rtings","Sonarworks"] }
+    {
+        type: "HRTF",
+        files:[
+	    "IEF Comp",
+	    "Δ JM-1 DF",
+	    "Δ JM-1 DF 10dB",
+	    "Δ JM-1 DF (B; 6.6dB, T; -3dB, 3khz; -1.8dB)",
+            "Δ 5128 DF",
+	    "Δ 5128 DF 10dB",
+	    "Δ 5128 DF (B; 6.6dB, T; -3dB, 3khz; -1.8dB)"
+            
+        ]
+    },
+    {
+        type: "Reference",
+        files:[
+	    "Δ IEF Preference 2025",
+	    "IEF Neutral 2023",
+	    "IEF Neutral 2020",
+            "Harman IE 2019",
+	    "Harman IE 2017",    
+	    "Harman IE 2016"
+
+
+        ]
+    },
+    {
+        type: "Community",
+        files:[
+            "Δ Aquaphobic",
+	    "Δ Rizzan JM-1",
+	    "Δ duck JM-1",
+	    "Δ Shige IE Binaural",
+	    "Super 22"
+        ]
+    }
 ];
 
 // Haruto's Addons
