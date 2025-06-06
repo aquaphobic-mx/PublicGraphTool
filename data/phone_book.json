@@ -1,50 +1,50 @@
 [
-	{
-        "name":   "CVJ",
+    {
+        "name": "CVJ",
         "phones": [
             {
                 "name": "Konoka",
                 "file": [
                     "CVJ Konoka (00, T300B)",
-					"CVJ Konoka (10, T300B)",
-					"CVJ Konoka (01, T300B)",
-					"CVJ Konoka (11, T300B)",
-					"CVJ Konoka (11, T300B, 500 filter)",
-					"CVJ Konoka (11, T300B, 500 filter, 25Ω)",
-					"CVJ Konoka (11, T300B, Tanchjim filter)",
-					"CVJ Konoka (11, T300B, Tanchjim filter, BF-1923)",
-					"CVJ Konoka (11, T300B, Tanchjim filter, BF-1861)"
+                    "CVJ Konoka (10, T300B)",
+                    "CVJ Konoka (01, T300B)",
+                    "CVJ Konoka (11, T300B)",
+                    "CVJ Konoka (11, T300B, 500 filter)",
+                    "CVJ Konoka (11, T300B, 500 filter, 25Ω)",
+                    "CVJ Konoka (11, T300B, Tanchjim filter)",
+                    "CVJ Konoka (11, T300B, Tanchjim filter, BF-1923)",
+                    "CVJ Konoka (11, T300B, Tanchjim filter, BF-1861)"
                 ],
-				"suffix": [
+                "suffix": [
                     "(00, T300B)",
-					"(10, T300B)",
-					"(01, T300B)",
-					"(11, T300B)",
-					"(11, T300B, 500 filter)",
-					"(11, T300B, 500 filter, 25Ω)",
-					"(11, T300B, Tanchjim filter)",
-					"(11, T300B, Tanchjim filter, BF-1923)",
-					"(11, T300B, Tanchjim filter, BF-1861)"
+                    "(10, T300B)",
+                    "(01, T300B)",
+                    "(11, T300B)",
+                    "(11, T300B, 500 filter)",
+                    "(11, T300B, 500 filter, 25Ω)",
+                    "(11, T300B, Tanchjim filter)",
+                    "(11, T300B, Tanchjim filter, BF-1923)",
+                    "(11, T300B, Tanchjim filter, BF-1861)"
                 ],
-                "reviewScore": "★★☆☆☆",
+                "reviewScore": "2",
                 "reviewLink": "",
                 "price": "$13",
                 "shopLink": "https://shopee.ph/CVJ-Konoka-In-Ear-Earphone-With-3D-Hifi-Triple-Hybrid-(1DD-1BA-1Vibration-Driver)-Wired-DJ-Monitors-Tuning-Switch-Headset-i.59464278.20591668562"
             }
         ]
     },
-	{
-        "name":   "Kiwi Ears",
+    {
+        "name": "Kiwi Ears",
         "phones": [
             {
                 "name": "Quintet",
                 "file": [
                     "Kiwi Ears Quintet (S&S)",
-					"Kiwi Ears Quintet (T300B)"
+                    "Kiwi Ears Quintet (T300B)"
                 ],
-				"suffix": [
+                "suffix": [
                     "(S&S)",
-					"(T300B)"
+                    "(T300B)"
                 ],
                 "reviewScore": "★★★★☆",
                 "reviewLink": "",
@@ -54,19 +54,19 @@
         ]
     },
     {
-        "name":   "Moondrop",
+        "name": "Moondrop",
         "phones": [
-			{
+            {
                 "name": "Aria",
                 "file": [
                     "Moondrop Aria (Velvet)",
-					"Moondrop Aria (Vent filter, Velvet)",
-					"Moondrop Aria (Vent blocked, Velvet)"
+                    "Moondrop Aria (Vent filter, Velvet)",
+                    "Moondrop Aria (Vent blocked, Velvet)"
                 ],
-				"suffix": [
-					"(Velvet)",
-					"(Vent filter, Velvet)",
-					"(Vent blocked, Velvet)"
+                "suffix": [
+                    "(Velvet)",
+                    "(Vent filter, Velvet)",
+                    "(Vent blocked, Velvet)"
                 ],
                 "reviewScore": "★★★★☆",
                 "reviewLink": "",
@@ -77,23 +77,23 @@
                 "name": "Moca",
                 "file": [
                     "Moondrop Moca (Standard, Block Ear+7)",
-					"Moondrop Moca (Ultra Bass, Block Ear+7)",
-					"Moondrop Moca (POP Style, Block Ear+7)",
-					"Moondrop Moca (POP Style, ASMR)",
-					"Moondrop Moca (Monitor, Block Ear+7)",
-					"Moondrop Moca (Classic, Block Ear+7)",
-					"Moondrop Moca (Transparent, Standard, Block Ear+7)",
-					"Moondrop Moca (ANC, Standard, Block Ear+7)"
+                    "Moondrop Moca (Ultra Bass, Block Ear+7)",
+                    "Moondrop Moca (POP Style, Block Ear+7)",
+                    "Moondrop Moca (POP Style, ASMR)",
+                    "Moondrop Moca (Monitor, Block Ear+7)",
+                    "Moondrop Moca (Classic, Block Ear+7)",
+                    "Moondrop Moca (Transparent, Standard, Block Ear+7)",
+                    "Moondrop Moca (ANC, Standard, Block Ear+7)"
                 ],
-				"suffix": [
+                "suffix": [
                     "(Standard, Block Ear+7)",
-					"(Ultra Bass, Block Ear+7)",
-					"(POP Style, Block Ear+7)",
-					"(POP Style, ASMR)",
-					"(Monitor, Block Ear+7)",
-					"(Classic, Block Ear+7)",
-					"(Transparent, Standard, Block Ear+7)",
-					"(ANC, Standard, Block Ear+7)"
+                    "(Ultra Bass, Block Ear+7)",
+                    "(POP Style, Block Ear+7)",
+                    "(POP Style, ASMR)",
+                    "(Monitor, Block Ear+7)",
+                    "(Classic, Block Ear+7)",
+                    "(Transparent, Standard, Block Ear+7)",
+                    "(ANC, Standard, Block Ear+7)"
                 ],
                 "reviewScore": "★★★★★",
                 "reviewLink": "",
@@ -102,18 +102,18 @@
             }
         ]
     },
-	{
-        "name":   "Realme",
+    {
+        "name": "Realme",
         "phones": [
             {
                 "name": "Buds Air 6 Pro",
                 "file": [
                     "Realme Buds Air 6 Pro",
-					"Realme Buds Air 6 Pro (ANC)"
+                    "Realme Buds Air 6 Pro (ANC)"
                 ],
-				"suffix": [
+                "suffix": [
                     "",
-					"(ANC)"
+                    "(ANC)"
                 ],
                 "reviewScore": "★★★★☆",
                 "reviewLink": "",
@@ -123,43 +123,42 @@
         ]
     },
     {
-        "name":   "Simgot",
+        "name": "Simgot",
         "phones": [
             {
                 "name": "EW300",
                 "file": [
-				    "Simgot EW300 3.5mm (Steel nozzle, Velvet)",
-					"Simgot EW300 3.5mm (Copper nozzle, Velvet)",
+                    "Simgot EW300 3.5mm (Steel nozzle, Velvet)",
+                    "Simgot EW300 3.5mm (Copper nozzle, Velvet)",
                     "Simgot EW300 3.5mm (Kato steel nozzle, Velvet)",
-					"Simgot EW300 3.5mm (Kato steel nozzle, Spring)"
+                    "Simgot EW300 3.5mm (Kato steel nozzle, Spring)"
                 ],
                 "suffix": [
-					"3.5mm (Steel nozzle, Velvet)",
-					"3.5mm (Copper nozzle, Velvet)",
+                    "3.5mm (Steel nozzle, Velvet)",
+                    "3.5mm (Copper nozzle, Velvet)",
                     "3.5mm (Kato steel nozzle, Velvet)",
-					"3.5mm (Kato steel nozzle, Spring)"
-
+                    "3.5mm (Kato steel nozzle, Spring)"
                 ],
                 "reviewScore": "★★★★★",
                 "reviewLink": "https://discord.com/channels/535786870521593887/1324708928940019793",
                 "price": "$70",
                 "shopLink": "https://shopee.ph/SIMGOT-EW300-DSP-1DD-1Planar-1PZT-Hybrid-Driver-In-Ear-Monitor-Wired-Earbuds-IEM-with-Built-in-DAC-IEM-Cable-i.174314413.26966249491"
             },
-			{
+            {
                 "name": "EW100P",
                 "file": [
                     "Simgot EW100P BT20XS (SBC, Velvet)",
-					"Simgot EW100P BT20XS (SBC, Origin)",
-					"Simgot EW100P BT20XS (SBC, Final E)",
-					"Simgot EW100P BT20XS (SBC, ET4)",
-					"Simgot EW100P BT20XS (SBC, Pro01)"
+                    "Simgot EW100P BT20XS (SBC, Origin)",
+                    "Simgot EW100P BT20XS (SBC, Final E)",
+                    "Simgot EW100P BT20XS (SBC, ET4)",
+                    "Simgot EW100P BT20XS (SBC, Pro01)"
                 ],
                 "suffix": [
-                    "BT20XS (SBC, Velvet)",					
-					"BT20XS (SBC, Origin)",
-					"BT20XS (SBC, Final E)",
-					"BT20XS (SBC, ET4)",
-					"BT20XS (SBC, Pro01)"
+                    "BT20XS (SBC, Velvet)",
+                    "BT20XS (SBC, Origin)",
+                    "BT20XS (SBC, Final E)",
+                    "BT20XS (SBC, ET4)",
+                    "BT20XS (SBC, Pro01)"
                 ],
                 "reviewScore": "★★★☆☆",
                 "reviewLink": "",
@@ -168,15 +167,15 @@
             }
         ]
     },
-	{
-        "name":   "Sonic Memory",
+    {
+        "name": "Sonic Memory",
         "phones": [
             {
                 "name": "SM1",
                 "file": [
                     "Sonic Memory SM1 (Silver, EX11)"
                 ],
-				"suffix": [
+                "suffix": [
                     "(Silver, EX11)"
                 ],
                 "reviewScore": "★★★★★",
@@ -186,15 +185,15 @@
             }
         ]
     },
-	{
-        "name":   "Sony",
+    {
+        "name": "Sony",
         "phones": [
             {
                 "name": "MDR-XB55AP",
                 "file": [
                     "Sony MDR-XB55AP"
                 ],
-				"suffix": [
+                "suffix": [
                     ""
                 ],
                 "reviewScore": "★★☆☆☆",
@@ -202,12 +201,12 @@
                 "price": "$26",
                 "shopLink": "https://shopee.ph/SONY-MDR-XB55AP-Premium-In-Ear-Extra-Bass-Headphones-Stereo-Earphones-3.5mm-Wired-Earbuds-Sport-Handsfree-Mic-Headset-i.517100226.19059808117"
             },
-			{
+            {
                 "name": "WI-C100",
                 "file": [
                     "Sony WI-C100"
                 ],
-				"suffix": [
+                "suffix": [
                     ""
                 ],
                 "reviewScore": "★★☆☆☆",
@@ -217,8 +216,8 @@
             }
         ]
     },
-	{
-        "name":   "Tanchjim",
+    {
+        "name": "Tanchjim",
         "phones": [
             {
                 "name": "Mino",
@@ -233,15 +232,15 @@
                 "price": "$42",
                 "shopLink": "https://shopee.ph/Tanchjim-Mino-ANC-Bluetooth-5.3-IPX4-Waterproof-Touch-Control-Wear-Detection-True-Wireless-Earphones-i.182669784.23587609556"
             },
-			{
+            {
                 "name": "One",
                 "file": [
                     "Tanchjim One (3.5mm, Narrow)",
-					"Tanchjim One (DSP, Narrow)"
+                    "Tanchjim One (DSP, Narrow)"
                 ],
                 "suffix": [
                     "(3.5mm, Narrow)",
-					"(DSP, Narrow)"
+                    "(DSP, Narrow)"
                 ],
                 "reviewScore": "★★★★★",
                 "reviewLink": "",
@@ -250,8 +249,8 @@
             }
         ]
     },
-	{
-        "name":   "Tangzu",
+    {
+        "name": "Tangzu",
         "phones": [
             {
                 "name": "Wan'er SE",
@@ -266,23 +265,23 @@
                 "price": "$20",
                 "shopLink": "https://shopee.ph/Tangzu-Wan'er-Studio-Edtion-SE-SG-Dynamic-Driver-HiFi-Detachable-Cable-Waner-IEM-In-Ear-Earphones-i.182669784.28056646868"
             },
-			{
+            {
                 "name": "Wan'er S.G 2",
                 "file": [
                     "Tangzu Wan'er S.G 2 (3.5mm, Sancai)",
-					"Tangzu Wan'er S.G 2 (3.5mm, Standard)",
-					"Tangzu Wan'er S.G 2 (3.5mm, Velvet)",
-					"Tangzu Wan'er S.G 2 (3.5mm, ASMR)",
-					"Tangzu Wan'er S.G 2 (SBC, Velvet)",
-					"Tangzu Wan'er S.G 2 (SBC, Pro01)"
+                    "Tangzu Wan'er S.G 2 (3.5mm, Standard)",
+                    "Tangzu Wan'er S.G 2 (3.5mm, Velvet)",
+                    "Tangzu Wan'er S.G 2 (3.5mm, ASMR)",
+                    "Tangzu Wan'er S.G 2 (SBC, Velvet)",
+                    "Tangzu Wan'er S.G 2 (SBC, Pro01)"
                 ],
                 "suffix": [
                     "(3.5mm, Sancai)",
-					"(3.5mm, Standard)",
-					"(3.5mm, Velvet)",
-					"(3.5mm, ASMR)",
-					"(SBC, Velvet)",
-					"(SBC, Pro01)"
+                    "(3.5mm, Standard)",
+                    "(3.5mm, Velvet)",
+                    "(3.5mm, ASMR)",
+                    "(SBC, Velvet)",
+                    "(SBC, Pro01)"
                 ],
                 "reviewScore": "★★★★★",
                 "reviewLink": "",
@@ -291,102 +290,102 @@
             }
         ]
     },
-	{
-        "name":   "Truthear",
+    {
+        "name": "Truthear",
         "phones": [
             {
                 "name": "Gate",
                 "file": [
                     "Truthear Gate (Wide)",
-					"Truthear Gate (Narrow)"
+                    "Truthear Gate (Narrow)"
                 ],
                 "suffix": [
                     "(Wide)",
-					"(Narrow)"
+                    "(Narrow)"
                 ],
                 "reviewScore": "★★★★☆",
                 "reviewLink": "",
                 "price": "$20",
                 "shopLink": "https://shopee.ph/Truthear-Gate-10mm-Dynamic-Driver-Lightweight-IEM-Detachable-Cable-Wired-Earphones-In-Ear-Monitors-i.182669784.24182346097"
             },
-			{
+            {
                 "name": "Hexa",
                 "file": [
                     "Truthear Hexa (T300B)",
-					"Truthear Hexa (-DDfilt, Pro01 [Treble exit obstruction])",
-					"Truthear Hexa (-DDfilt, Pro01 [Mids exit obstruction])",
-					"Truthear Hexa (-DDfilt, AEX07)",
-					"Truthear Hexa (-DDfilt, Velvet)",
-					"Truthear Hexa (-DDfilt, +Vfilt, Velvet)"
+                    "Truthear Hexa (-DDfilt, Pro01 [Treble exit obstruction])",
+                    "Truthear Hexa (-DDfilt, Pro01 [Mids exit obstruction])",
+                    "Truthear Hexa (-DDfilt, AEX07)",
+                    "Truthear Hexa (-DDfilt, Velvet)",
+                    "Truthear Hexa (-DDfilt, +Vfilt, Velvet)"
                 ],
                 "suffix": [
-					"(T300B)",
-					"(-DDfilt, Pro01 [Treble exit obstruction])",
-					"(-DDfilt, Pro01 [Mids exit obstruction])",
-					"(-DDfilt, AEX07)",
-					"(-DDfilt, Velvet)",
-					"(-DDfilt, +Vfilt, Velvet)"
+                    "(T300B)",
+                    "(-DDfilt, Pro01 [Treble exit obstruction])",
+                    "(-DDfilt, Pro01 [Mids exit obstruction])",
+                    "(-DDfilt, AEX07)",
+                    "(-DDfilt, Velvet)",
+                    "(-DDfilt, +Vfilt, Velvet)"
                 ],
                 "reviewScore": "★★★★★",
                 "reviewLink": "",
                 "price": "$85",
                 "shopLink": "https://shopee.ph/Truthear-Hexa-1DD-3BA-Hybrid-Dynamic-Balanced-Armature-Driver-IEM-Earphones-i.182669784.20788774139"
             },
-			{
+            {
                 "name": "Zero Blue 2",
                 "file": [
                     "Truthear Zero Blue 2",
-					"Truthear Zero Blue 2 (Foam tip)",
-					"Truthear Zero Blue 2 (5Ω)",
-					"Truthear Zero Blue 2 (5Ω, Foam tip)",
-					"Truthear Zero Blue 2 (5Ω, ET4)",
-					"Truthear Zero Blue 2 (5Ω, Final E)",
-					"Truthear Zero Blue 2 (5Ω, Final E C)",
-					"Truthear Zero Blue 2 (5Ω, 9k, Final E)",
-					"Truthear Zero Blue 2 (5Ω, EP-EX11)",
-					"Truthear Zero Blue 2 (5Ω, ST35)",
-					"Truthear Zero Blue 2 (5Ω, T300B)",
-					"Truthear Zero Blue 2 (5Ω, ASMR)",
-					"Truthear Zero Blue 2 (5Ω, Leteciel Clear)",
-					"Truthear Zero Blue 2 (5Ω, Leteciel Black)",
-					"Truthear Zero Blue 2 (5Ω, Spring)",
-					"Truthear Zero Blue 2 (5Ω, Spring F)",
-					"Truthear Zero Blue 2 (5Ω, Gate Narrow)",
-					"Truthear Zero Blue 2 (5Ω, Gate Wide)",
-					"Truthear Zero Blue 2 (5Ω, 9k, Gate Wide)",
-					"Truthear Zero Blue 2 (5Ω, OS300)",
-					"Truthear Zero Blue 2 (5Ω, stk300)",
-					"Truthear Zero Blue 2 (25Ω)",
-					"Truthear Zero Blue 2 (MAG B550 Tomahawk Max)",
-					"Truthear Zero Blue 2 S2",
-					"Truthear Zero Blue 2 (5Ω) S2"
+                    "Truthear Zero Blue 2 (Foam tip)",
+                    "Truthear Zero Blue 2 (5Ω)",
+                    "Truthear Zero Blue 2 (5Ω, Foam tip)",
+                    "Truthear Zero Blue 2 (5Ω, ET4)",
+                    "Truthear Zero Blue 2 (5Ω, Final E)",
+                    "Truthear Zero Blue 2 (5Ω, Final E C)",
+                    "Truthear Zero Blue 2 (5Ω, 9k, Final E)",
+                    "Truthear Zero Blue 2 (5Ω, EP-EX11)",
+                    "Truthear Zero Blue 2 (5Ω, ST35)",
+                    "Truthear Zero Blue 2 (5Ω, T300B)",
+                    "Truthear Zero Blue 2 (5Ω, ASMR)",
+                    "Truthear Zero Blue 2 (5Ω, Leteciel Clear)",
+                    "Truthear Zero Blue 2 (5Ω, Leteciel Black)",
+                    "Truthear Zero Blue 2 (5Ω, Spring)",
+                    "Truthear Zero Blue 2 (5Ω, Spring F)",
+                    "Truthear Zero Blue 2 (5Ω, Gate Narrow)",
+                    "Truthear Zero Blue 2 (5Ω, Gate Wide)",
+                    "Truthear Zero Blue 2 (5Ω, 9k, Gate Wide)",
+                    "Truthear Zero Blue 2 (5Ω, OS300)",
+                    "Truthear Zero Blue 2 (5Ω, stk300)",
+                    "Truthear Zero Blue 2 (25Ω)",
+                    "Truthear Zero Blue 2 (MAG B550 Tomahawk Max)",
+                    "Truthear Zero Blue 2 S2",
+                    "Truthear Zero Blue 2 (5Ω) S2"
                 ],
                 "suffix": [
-					"",
-					"(Foam tip)",
+                    "",
+                    "(Foam tip)",
                     "(5Ω)",
-					"(5Ω, Foam tip)",
-					"(5Ω, ET4)",
-					"(5Ω, Final E)",
-					"(5Ω, Final E C)",
-					"(5Ω, 9k, Final E)",
-					"(5Ω, EP-EX11)",
-					"(5Ω, ST35)",
-					"(5Ω, T300B)",
-					"(5Ω, ASMR)",
-					"(5Ω, Leteciel Clear)",
-					"(5Ω, Leteciel Black)",
-					"(5Ω, Spring)",
-					"(5Ω, Spring F)",
-					"(5Ω, Gate Narrow)",
-					"(5Ω, Gate Wide)",
-					"(5Ω, 9k, Gate Wide)",
-					"(5Ω, OS300)",
-					"(5Ω, stk300)",
-					"(25Ω)",
-					"(MAG B550 Tomahawk Max)",
-					"S2",
-					"(5Ω) S2"
+                    "(5Ω, Foam tip)",
+                    "(5Ω, ET4)",
+                    "(5Ω, Final E)",
+                    "(5Ω, Final E C)",
+                    "(5Ω, 9k, Final E)",
+                    "(5Ω, EP-EX11)",
+                    "(5Ω, ST35)",
+                    "(5Ω, T300B)",
+                    "(5Ω, ASMR)",
+                    "(5Ω, Leteciel Clear)",
+                    "(5Ω, Leteciel Black)",
+                    "(5Ω, Spring)",
+                    "(5Ω, Spring F)",
+                    "(5Ω, Gate Narrow)",
+                    "(5Ω, Gate Wide)",
+                    "(5Ω, 9k, Gate Wide)",
+                    "(5Ω, OS300)",
+                    "(5Ω, stk300)",
+                    "(25Ω)",
+                    "(MAG B550 Tomahawk Max)",
+                    "S2",
+                    "(5Ω) S2"
                 ],
                 "reviewScore": "★★★★★",
                 "reviewLink": "",

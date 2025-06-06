@@ -25,7 +25,7 @@
     --header-links-color: hsl(0, 0%, 100%);
     --header-menu-icon-color: hsl(0, 0%, 100%);
     
-    --logo-filter: invert(1.0);
+    --logo-filter: none;
     --svg-filter: none;
 }
 
@@ -54,7 +54,7 @@ body.theme-dark {
     --header-links-color: hsl(0, 0%, 100%);
     --header-menu-icon-color: hsl(0, 0%, 100%);
     
-    --logo-filter: invert(1.0);
+    --logo-filter: none;
     --svg-filter: invert(1);
 }
 
@@ -83,7 +83,7 @@ body.theme-contrast {
     --header-links-color: hsl(0, 0%, 100%);
     --header-menu-icon-color: hsl(0, 0%, 100%);
     
-    --logo-filter: invert(1.0);
+    --logo-filter: none;
     --svg-filter: none;
 }
 
