@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ["Δ Aquaphobic Target", "IEF Comp Target", "Simgot EW300 3.5mm (Kato steel nozzle, Velvet)"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["Δ ISO 11904-1 DF Target", "IEF Comp Target", "Simgot EW300 3.5mm (Kato steel nozzle, Velvet)"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       data_format = "REW",                          // Accepts "AudioTools," "REW," or "other"
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
@@ -42,7 +42,7 @@ const init_phones = ["Δ Aquaphobic Target", "IEF Comp Target", "Simgot EW300 3.
 
 // Specify which targets to display
 const targets = [
-    { type:"Δ",             files:["Δ 5128 DF", "Δ JM-1 DF", "IEF Comp"] },
+    { type:"Δ",             files:["Δ 5128 DF", "Δ JM-1 DF", "Δ ISO 11904-1 DF", "IEF Comp"] },
     { type:"Personal",      files:["Δ Aquaphobic"] },    
     { type:"Community",     files:["Rollo Neutral", "Δ Rizzan JM-1", "Δ duck JM-1", "Δ Shige IE Binaural"] },
     { type:"Reference",     files:["IEF Neutral 2023", "IEF Neutral 2020"] },
