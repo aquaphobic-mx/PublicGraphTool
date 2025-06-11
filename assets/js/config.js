@@ -63,7 +63,7 @@ const  preference_bounds_name = "Bounds",              // Preference bounds name
        default_tilt = -0.8,                            // Default Custom DF tilt value
        default_ear = 0,                                // Default Custom DF ear gain value
        default_treble = 0,                             // Default Custom DF treble gain value
-       tiltableTargets = ["Δ 5128 DF", "Δ JM-1 DF"],                 // Targets that are allowed to be tilted
+       tiltableTargets = ["Δ 5128 DF", "Δ JM-1 DF", "Δ ISO 11904-1 DF"],                 // Targets that are allowed to be tilted
        compTargets = ["IEF Comp"],                     // Targets that are allowed to be used for compensation
        allowCreatorSupport = false;                     // Allow the creator to have a button top right to support them
 
