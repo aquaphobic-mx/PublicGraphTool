@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ["Δ ISO 11904-1 DF Target", "IEF Comp Target", "Simgot EW300 3.5mm (Kato steel nozzle, Velvet)"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["IEF Neutral 2023 Target", "IEF Comp Target", "Simgot EW300 3.5mm (Kato steel nozzle, Velvet)"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       data_format = "REW",                          // Accepts "AudioTools," "REW," or "other"
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
