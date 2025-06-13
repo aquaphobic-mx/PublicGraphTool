@@ -334,10 +334,12 @@
             {
                 "name": "Zero",
                 "file": [
-                    "Truthear Zero (AET07)"
+                    "Truthear Zero (AET07)",
+                    "Truthear Zero (5Ω, AET07)"
                 ],
                 "suffix": [
-                    "(AET07)"
+                    "(AET07)",
+                    "(5Ω, AET07)"
                 ],
                 "reviewScore": "4",
                 "reviewLink": "",
