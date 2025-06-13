@@ -332,6 +332,19 @@
                 "shopLink": "https://shopee.ph/Truthear-Hexa-1DD-3BA-Hybrid-Dynamic-Balanced-Armature-Driver-IEM-Earphones-i.182669784.20788774139"
             },
             {
+                "name": "Zero",
+                "file": [
+                    "Truthear Zero (AET07)"
+                ],
+                "suffix": [
+                    "(AET07)"
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://shopee.ph/Truthear-X-Crinacle-Zero-Dual-Dynamic-Driver-IEM-Earphones-i.182669784.18976727736"
+            },
+            {
                 "name": "Zero Blue 2",
                 "file": [
                     "Truthear Zero Blue 2",
@@ -387,7 +400,7 @@
                     "S2",
                     "(5Ω) S2"
                 ],
-                "reviewScore": "★★★★★",
+                "reviewScore": "4",
                 "reviewLink": "",
                 "price": "$65",
                 "shopLink": "https://shenzhenaudio.com/products/truthear-x-crinacle-zeroblue2-dual-dynamic-drivers-in-ear-headphone"
