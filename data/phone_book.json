@@ -52,6 +52,24 @@
         ]
     },
     {
+        "name": "Daiso",
+        "phones": [
+            {
+                "name": "7301",
+                "file": [
+                    "Daiso 7301"
+                ],
+                "suffix": [
+                    ""
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$8",
+                "shopLink": ""
+            }
+        ]
+    },
+    {
         "name": "Kiwi Ears",
         "phones": [
             {
