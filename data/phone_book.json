@@ -1,5 +1,23 @@
 [
     {
+        "name": "Binary",
+        "phones": [
+            {
+                "name": "Chopin",
+                "file": [
+                    "Binary Chopin (AEX07)"
+                ],
+                "suffix": [
+                    "(AEX07)"
+                ],
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$180",
+                "shopLink": ""
+            }
+        ]
+    },
+    {
         "name": "CVJ",
         "phones": [
             {
