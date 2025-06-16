@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ["IEF Neutral 2023 Target", "IEF Comp Target", "Simgot EW300 3.5mm (Kato steel nozzle, Velvet)"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["IEF Comp Target", "IEF Neutral 2023 Target", "Simgot EW300 3.5mm (Kato steel nozzle, Velvet)"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       data_format = "REW",                          // Accepts "AudioTools," "REW," or "other"
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
@@ -17,7 +17,7 @@ const init_phones = ["IEF Neutral 2023 Target", "IEF Comp Target", "Simgot EW300
       site_url = "",                                // URL of your graph "homepage"
       share_url = true,                             // If true, enables shareable URLs
       watermark_text = "",                          // Optional. Watermark appears behind graphs
-      watermark_image_url = "koishi_icon2b_i.png",                     // Optional. If image file is in same directory as config, can be just the filename
+      watermark_image_url = "koishi_icon1b_i.png",                     // Optional. If image file is in same directory as config, can be just the filename
       rig_description = "Clone IEC 60318-4 (711) Coupler", // Optional. Labels the graph with a description of the rig used to make the measurement, e.g. "clone IEC 711"
       page_title = "Aquaphobic's IEM Database",
       page_description = "View and compare frequency response graphs for earphones",
@@ -54,21 +54,22 @@ const targets = [
 const  preference_bounds_name = "Bounds",              // Preference bounds name
        preference_bounds_dir = "assets/pref_bounds/",  // Preference bounds directory
        preference_bounds_startup = false,              // If true, preference bounds are displayed on startup
-       allowSquigDownload = false,                     // If true, allows download of measurement data
+       allowSquigDownload = true,                     // If true, allows download of measurement data
        // PHONE_BOOK = "phone_book.json",              // Path to phone book JSON file         /* UNCOMMENT THIS IF YOU WANT TO MOVE PHONEBOOK OUTSIDE AGAIN */
        default_y_scale = "40db",                       // Default Y scale; values: ["20db", "30db", "40db", "50db", "crin"]
        default_DF_name = "Δ JM-1 DF",                   // Default RAW DF name
-       dfBaseline = true,                              // If true, DF is used as baseline when custom df tilt is on
-       default_bass_shelf = 8,                         // Default Custom DF bass shelf value
-       default_tilt = -0.8,                            // Default Custom DF tilt value
+       dfBaseline = false,                              // If true, DF is used as baseline when custom df tilt is on
+       default_bass_shelf = 0,                         // Default Custom DF bass shelf value
+       default_tilt = -0.4,                            // Default Custom DF tilt value
        default_ear = 0,                                // Default Custom DF ear gain value
-       default_treble = 0,                             // Default Custom DF treble gain value
+       default_treble = -2.5,                             // Default Custom DF treble gain value
        tiltableTargets = ["Δ 5128 DF", "Δ JM-1 DF", "Δ ISO 11904-1 DF"],                 // Targets that are allowed to be tilted
        compTargets = ["IEF Comp"],                     // Targets that are allowed to be used for compensation
        allowCreatorSupport = false;                     // Allow the creator to have a button top right to support them
 
 
 const harmanFilters = [
+    { name: "B&K Optimum HiFi", tilt: -0.4, bass_shelf: 0, ear: 0, treble: -2.5 },
     { name: "Harman C1 2024 IE", tilt: -0.9, bass_shelf: 1, ear: 0, treble: 0.5 },
     { name: "Harman C2 2024 IE", tilt: -0.3, bass_shelf: .5, ear: -0.2, treble: 1 },
     { name: "Harman C3 2024 IE", tilt: -2.1, bass_shelf: 0, ear: 0, treble: 10 },
@@ -92,7 +93,7 @@ function watermark(svg) {
     
     if ( watermark_image_url ) {
         wm.append("image")
-            .attrs({x:-128, y:-96, width:256, height:256, "xlink:href":watermark_image_url});
+            .attrs({x:315, y:-125, width:64, height:64, "xlink:href":watermark_image_url});
     }
     
     if ( rig_description ) {
