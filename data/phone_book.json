@@ -159,6 +159,26 @@
         ]
     },
     {
+        "name": "Samsung",
+        "phones": [
+            {
+                "name": "Galaxy Buds FE",
+                "file": [
+                    "Samsung Galaxy Buds FE (SSC, Balanced, TWS 6)",
+                    "Samsung Galaxy Buds FE (SSC, Clear, TWS 6)"
+                ],
+                "suffix": [
+                    "(SSC, Balanced, TWS 6)",
+                    "(SSC, Clear, TWS 6)"
+                ],
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$95",
+                "shopLink": "https://shopee.ph/Samsung-Galaxy-Buds-FE-Graphite-SM-R400N-Brand-New-Original-i.23129940.24994334949"
+            }
+        ]
+    },
+    {
         "name": "Simgot",
         "phones": [
             {
