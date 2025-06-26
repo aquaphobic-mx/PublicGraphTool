@@ -381,6 +381,7 @@
                 "name": "Hexa",
                 "file": [
                     "Truthear Hexa (T300B)",
+                    "Truthear Hexa (-DDfilt, +Vfilt, PS, AEX07)",
                     "Truthear Hexa (-DDfilt, Pro01 [Treble exit obstruction])",
                     "Truthear Hexa (-DDfilt, Pro01 [Mids exit obstruction])",
                     "Truthear Hexa (-DDfilt, AEX07)",
@@ -389,13 +390,14 @@
                 ],
                 "suffix": [
                     "(T300B)",
+                    "(-DDfilt, +Vfilt, PS, AEX07)",
                     "(-DDfilt, Pro01 [Treble exit obstruction])",
                     "(-DDfilt, Pro01 [Mids exit obstruction])",
                     "(-DDfilt, AEX07)",
                     "(-DDfilt, Velvet)",
                     "(-DDfilt, +Vfilt, Velvet)"
                 ],
-                "reviewScore": "★★★★★",
+                "reviewScore": "5",
                 "reviewLink": "",
                 "price": "$85",
                 "shopLink": "https://shopee.ph/Truthear-Hexa-1DD-3BA-Hybrid-Dynamic-Balanced-Armature-Driver-IEM-Earphones-i.182669784.20788774139"
