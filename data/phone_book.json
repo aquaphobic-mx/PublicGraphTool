@@ -1,5 +1,23 @@
 [
     {
+        "name": "7th Acoustics",
+        "phones": [
+            {
+                "name": "Supernova",
+                "file": [
+                    "7A Supernova"
+                ],
+                "suffix": [
+                    ""
+                ],
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$850",
+                "shopLink": ""
+            }
+        ]
+    },
+    {
         "name": "Binary",
         "phones": [
             {
@@ -157,14 +175,12 @@
             {
                 "name": "Buds Air 6 Pro",
                 "file": [
-                    "Realme Buds Air 6 Pro",
-                    "Realme Buds Air 6 Pro (ANC)"
+                    "Realme Buds Air 6 Pro"
                 ],
                 "suffix": [
-                    "",
-                    "(ANC)"
+                    ""
                 ],
-                "reviewScore": "★★★★☆",
+                "reviewScore": "4",
                 "reviewLink": "",
                 "price": "$60",
                 "shopLink": "https://shopee.ph/Realme-Buds-Air-6-Pro-True-Wireless-Earphone-50dB-Active-Noise-Cancelling-Bluetooth-5.3-TWS-Earphone-LDAC-IP55-Headphone-i.88405694.25680335234"

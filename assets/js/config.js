@@ -1,12 +1,12 @@
 // Configuration options
-const init_phones = ["IEF Comp Target", "IEF Neutral 2023 Target", "Simgot EW300 3.5mm (Kato steel nozzle, Velvet)"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["IEF Comp Target", "IEF Neutral 2023 Target", "Simgot EW300 3.5mm (Kato steel nozzle, Spring)"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       data_format = "REW",                          // Accepts "AudioTools," "REW," or "other"
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
       default_normalization = "Hz",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
       default_norm_db = 60,                         // Sets default dB normalization point
       default_norm_hz = 630,                        // Sets default Hz normalization point (500Hz is recommended by IEC)
-      max_channel_imbalance = 10,                    // Channel imbalance threshold to show ! in the channel selector
+      max_channel_imbalance = 6,                    // Channel imbalance threshold to show ! in the channel selector
       alt_layout = true,                            // Toggle between classic and alt layouts
       alt_sticky_graph = true,                      // If active graphs overflows the viewport, does the graph scroll with the page or stick to the viewport?
       alt_animated = true,                          // Determines if new graphs are drawn with a 1-second animation, or appear instantly
@@ -42,12 +42,12 @@ const init_phones = ["IEF Comp Target", "IEF Neutral 2023 Target", "Simgot EW300
 
 // Specify which targets to display
 const targets = [
-    { type:"Δ",             files:["Δ 5128 DF", "Δ JM-1 DF", "Δ ISO 11904-1 DF", "IEF Comp"] },
+    { type:"Δ",             files:["Δ 5128 DF", "Δ JM-1 DF", "Δ ISO 11904-1 DF", "IEF Comp", "711 to 5128", "711 to 5128 (DD Bass)"] },
     { type:"Personal",      files:["Δ Aquaphobic"] },    
     { type:"Community",     files:["Rollo Neutral", "Δ Rizzan JM-1", "Δ duck JM-1", "Δ Shige IE Binaural"] },
     { type:"Reference",     files:["IEF Neutral 2023", "IEF Neutral 2020"] },
     { type:"Reviewer",      files:["Δ IEF Preference 2025", "Antdroid", "Banbeucmas", "HBB", "Precogvision", "Super 22"] },
-    { type:"Preference",    files:["Δ SoundGuys", "Harman IE 2019v2","Harman IE 2017v2","VDSF","Rtings"] }
+    { type:"Preference",    files:["Δ SoundGuys", "Harman IE 2019","Harman IE 2017", "Harman IE 2016","Rtings", "VDSF"] }
 ];
 
 // Haruto's Addons
@@ -64,7 +64,7 @@ const  preference_bounds_name = "Bounds",              // Preference bounds name
        default_ear = 0,                                // Default Custom DF ear gain value
        default_treble = -2.5,                             // Default Custom DF treble gain value
        tiltableTargets = ["Δ 5128 DF", "Δ JM-1 DF", "Δ ISO 11904-1 DF"],                 // Targets that are allowed to be tilted
-       compTargets = ["IEF Comp"],                     // Targets that are allowed to be used for compensation
+       compTargets = ["IEF Comp", "711 to 5128", "711 to 5128 (DD Bass)"],                     // Targets that are allowed to be used for compensation
        allowCreatorSupport = false;                     // Allow the creator to have a button top right to support them
 
 
