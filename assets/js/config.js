@@ -44,7 +44,7 @@ const init_phones = ["IEF Comp Target", "IEF Neutral 2023 Target", "Simgot EW300
 const targets = [
     { type:"Δ",             files:["Δ 5128 DF", "Δ JM-1 DF", "Δ ISO 11904-1 DF", "IEF Comp", "711 to 5128", "711 to 5128 (DD Bass)"] },
     { type:"Personal",      files:["Δ Aquaphobic"] },    
-    { type:"Community",     files:["Rollo Neutral", "Δ Rizzan JM-1", "Δ duck JM-1", "Δ Shige IE Binaural"] },
+    { type:"Community",     files:["Rollo Neutral", "Δ Rizzan JM-1", "Δ duck JM-1", "Δ IE Binaural"] },
     { type:"Reference",     files:["IEF Neutral 2023", "IEF Neutral 2020"] },
     { type:"Reviewer",      files:["Δ IEF Preference 2025", "Antdroid", "Banbeucmas", "HBB", "Precogvision", "Super 22"] },
     { type:"Preference",    files:["Δ SoundGuys", "Harman IE 2019","Harman IE 2017", "Harman IE 2016","Rtings", "VDSF"] }
