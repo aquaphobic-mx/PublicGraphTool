@@ -45,7 +45,7 @@ const targets = [
     { type:"Δ",             files:["Δ 5128 DF", "Δ JM-1 DF", "Δ ISO 11904-1 DF", "IEF Comp", "711 to 5128", "711 to 5128 (DD Bass)"] },
     { type:"Personal",      files:["Δ Aquaphobic"] },    
     { type:"Community",     files:["Rollo Neutral", "Δ Rizzan JM-1", "Δ duck JM-1", "Δ IE Binaural"] },
-    { type:"Reference",     files:["IEF Neutral 2023", "IEF Neutral 2020"] },
+    { type:"Reference",     files:["IEF Neutral 2023", "IEF Neutral 2020", "4128 DF"] },
     { type:"Reviewer",      files:["Δ IEF Preference 2025", "Antdroid", "Banbeucmas", "HBB", "Precogvision", "Super 22"] },
     { type:"Preference",    files:["Δ SoundGuys", "Harman IE 2019","Harman IE 2017", "Harman IE 2016","Rtings", "VDSF"] }
 ];
@@ -63,7 +63,7 @@ const  preference_bounds_name = "Bounds",              // Preference bounds name
        default_tilt = -0.4,                            // Default Custom DF tilt value
        default_ear = 0,                                // Default Custom DF ear gain value
        default_treble = -2.5,                             // Default Custom DF treble gain value
-       tiltableTargets = ["Δ 5128 DF", "Δ JM-1 DF", "Δ ISO 11904-1 DF"],                 // Targets that are allowed to be tilted
+       tiltableTargets = ["Δ 5128 DF", "Δ JM-1 DF", "Δ ISO 11904-1 DF", "4128 DF" ],                 // Targets that are allowed to be tilted
        compTargets = ["IEF Comp", "711 to 5128", "711 to 5128 (DD Bass)"],                     // Targets that are allowed to be used for compensation
        allowCreatorSupport = false;                     // Allow the creator to have a button top right to support them
 
