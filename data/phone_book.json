@@ -18,6 +18,24 @@
         ]
     },
     {
+        "name": "64 Audio",
+        "phones": [
+            {
+                "name": "U12t",
+                "file": [
+                    "64 Audio U12t (Deep)"
+                ],
+                "suffix": [
+                    "(Red, Deep)"
+                ],
+                "reviewScore": "4",
+                "reviewLink": "",
+                "price": "$2000",
+                "shopLink": "https://www.64audio.com/collections/universal-iems/products/u12t-1"
+            }
+        ]
+    },
+    {
         "name": "Binary",
         "phones": [
             {
@@ -285,6 +303,19 @@
                 "reviewLink": "",
                 "price": "$26",
                 "shopLink": "https://shopee.ph/SONY-MDR-XB55AP-Premium-In-Ear-Extra-Bass-Headphones-Stereo-Earphones-3.5mm-Wired-Earbuds-Sport-Handsfree-Mic-Headset-i.517100226.19059808117"
+            },
+            {
+                "name": "MH755",
+                "file": [
+                    "Sony MH755 (EX11)"
+                ],
+                "suffix": [
+                    "(EX11)"
+                ],
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$14",
+                "shopLink": "Discontinued"
             },
             {
                 "name": "WI-C100",
