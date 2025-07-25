@@ -336,6 +336,21 @@
         "name": "Tanchjim",
         "phones": [
             {
+                "name": "Fission",
+                "file": [
+                    "Tanchjim Fission (S)",
+                    "Tanchjim Fission (Pop, S)"
+                ],
+                "suffix": [
+                    "(S)",
+                    "(Pop, S)"
+                ],
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$110",
+                "shopLink": "https://shopee.ph/TANCHJIM-Fission-5th-Generation-DMT-Dynamic-Driver-IEMs-HIFI-Earphones-with-0.78mm-To-3.5-4.4-USB-C-Cable-i.174314413.42201499938"
+            },
+            {
                 "name": "Mino",
                 "file": [
                     "Tanchjim Mino (SBC, Nuarl 7)"
