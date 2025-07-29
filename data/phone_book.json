@@ -339,10 +339,20 @@
                 "name": "Fission",
                 "file": [
                     "Tanchjim Fission (S)",
+                    "Tanchjim Fission (S, DSP Default)",
+                    "Tanchjim Fission (S, DSP Natural)",
+                    "Tanchjim Fission (S, DSP Balance)",
+                    "Tanchjim Fission (S, DSP Popular)",
+                    "Tanchjim Fission (S, DSP Musical)",
                     "Tanchjim Fission (Pop, S)"
                 ],
                 "suffix": [
                     "(S)",
+                    "(S, DSP Default)",
+                    "(S, DSP Natural)",
+                    "(S, DSP Balance)",
+                    "(S, DSP Popular)",
+                    "(S, DSP Musical)",
                     "(Pop, S)"
                 ],
                 "reviewScore": "5",
