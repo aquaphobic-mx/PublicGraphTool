@@ -477,6 +477,23 @@
                 "shopLink": "https://shopee.ph/Truthear-Hexa-1DD-3BA-Hybrid-Dynamic-Balanced-Armature-Driver-IEM-Earphones-i.182669784.20788774139"
             },
             {
+                "name": "Pure",
+                "file": [
+                    "Truthear Pure (Narrow)",
+                    "Truthear Pure (Wide)",
+                    "Truthear Pure (Crystal 2)"
+                ],
+                "suffix": [
+                    "(Narrow)",
+                    "(Wide)",
+                    "(Crystal 2)"
+                ],
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$90",
+                "shopLink": "https://shopee.ph/Truthear-Pure-Quad-Hybrid-Driver-1DD-3BA-IEM-Detachable-Cable-Wired-HiFi-Earphones-In-Ear-Monitors-i.182669784.29138809150"
+            },
+            {
                 "name": "Zero",
                 "file": [
                     "Truthear Zero (AET07)",
