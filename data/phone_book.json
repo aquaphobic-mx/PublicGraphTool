@@ -91,6 +91,19 @@
         "name": "Daiso",
         "phones": [
             {
+                "name": "6088",
+                "file": [
+                    "Daiso 6088"
+                ],
+                "suffix": [
+                    ""
+                ],
+                "reviewScore": "3",
+                "reviewLink": "",
+                "price": "$8",
+                "shopLink": ""
+            },
+            {
                 "name": "7301",
                 "file": [
                     "Daiso 7301"
