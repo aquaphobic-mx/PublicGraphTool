@@ -239,6 +239,26 @@
         ]
     },
     {
+        "name": "Sennheiser",
+        "phones": [
+            {
+                "name": "IE 600",
+                "file": [
+                    "Sennheiser IE600 (AET07)",
+                    "Sennheiser IE600 (AliExpress driver, AET07)"
+                ],
+                "suffix": [
+                    "(AET07)",
+                    "(AliExpress driver, AET07)"
+                ],
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "$490",
+                "shopLink": "https://shopee.ph/Sennheiser-IE-600-In-Ear-Headphones-i.163796627.27623274941"
+            }
+        ]
+    },
+    {
         "name": "Simgot",
         "phones": [
             {
