@@ -186,6 +186,26 @@
                 "shopLink": "https://shopee.ph/Moondrop-MOCA-True-Wireless-Earbuds-HiFi-Sound-Quality-ANC-TWS-IMEs-Bass-LE-Audio-Support-APP-i.174314413.27362637084"
             },
             {
+                "name": "Pudding",
+                "file": [
+                    "Moondrop Pudding (Reference)",
+                    "Moondrop Pudding (ANC, Reference)",
+                    "Moondrop Pudding (WNR, Reference)",
+                    "Moondrop Pudding (TP, Reference)"
+                ],
+                "suffix": [
+                    "(Reference)",
+                    "(ANC, Reference)",
+                    "(WNR, Reference)",
+                    "(TP, Reference)"
+
+                ],
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$50",
+                "shopLink": "https://shenzhenaudio.com/products/moondrop-pudding-true-wireless-headphone-tws"
+            }
+            {
                 "name": "Quarks 2",
                 "file": [
                     "Moondrop Quarks 2 (DSP)"
