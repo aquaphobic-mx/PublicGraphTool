@@ -159,6 +159,19 @@
                 "shopLink": "Discontinued"
             },
             {
+                "name": "Chu 3",
+                "file": [
+                    "Moondrop Chu 3"
+                ],
+                "suffix": [
+                    ""
+                ],
+                "reviewScore": "5",
+                "reviewLink": "",
+                "price": "$25",
+                "shopLink": "https://shopee.ph/Moondrop-Chu-III-Chu-3-In-Ear-Monitors-(IEM)-10mm-Dynamic-Driver-Swappable-Cable-0.78mm-2-pin-i.932494497.41783759731"
+            },
+            {
                 "name": "Moca",
                 "file": [
                     "Moondrop Moca (Standard, Block Ear+7)",
