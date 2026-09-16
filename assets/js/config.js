@@ -1,9 +1,9 @@
 // Configuration options
-const init_phones = ["IEF Comp Target", "IEF Neutral 2023 Target", "Truthear Hexa (-DDfilt, +Vfilt, PS, Crystal 2)"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["Δ Headphones.com (IEM) DF Target", "Truthear Pure (Crystal 2, 2 Gray)"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       data_format = "REW",                          // Accepts "AudioTools," "REW," or "other"
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
-      default_normalization = "Hz",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
+      default_normalization = "dB",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
       default_norm_db = 60,                         // Sets default dB normalization point
       default_norm_hz = 630,                        // Sets default Hz normalization point (500Hz is recommended by IEC)
       max_channel_imbalance = 6,                    // Channel imbalance threshold to show ! in the channel selector
